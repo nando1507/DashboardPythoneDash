@@ -60,9 +60,6 @@ select_columns = {
     "ObitosNovos":"Óbitos por dia"
 }
 
-
-
-
 # estilo
 app = dash.Dash(external_stylesheets=[dbc.themes.DARKLY])
 
